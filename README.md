@@ -201,5 +201,5 @@ Selected models were retrained using mixtures of original and modified datasets 
 
 The complete project documentation, including all experiments, hyperparameter optimization results, robustness evaluations and model comparisons, is available here:
 
- ![KI1 Portfolio Report](full report/KI1_114_Gilles_Portfolio.pdf)
+ ![KI1 Portfolio Report](full_report/KI1_114_Gilles_Portfolio.pdf)
     
